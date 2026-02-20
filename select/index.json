@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "会いにいくけど",
+  "base_artist": "reinou",
+  "createdAt": "2026-02-20T14:12:41.129250Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会いにいくけど (feat. 花隈千冬)",
+      "artist": "reinou",
+      "has_synced": false,
+      "path": "select/pl_01_会いにいくけど_(feat._花隈千冬)_reinou.txt"
+    }
+  ]
+}
